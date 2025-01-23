@@ -15,7 +15,7 @@ Deze pagina wordt gebruikt als embed voor de ICTO canvas
 
 1. Open **Visual Studio Code**.
 2. Klik in het **Source Control**-paneel (linkerkant van het scherm) op de knop **Clone Repository**.
-3. Kies **Clone repository** en plak de URL van deze GitHub-repository (bijv. `https://github.com/icto-csw/icto-csw.github.io`).
+3. Kies **Clone repository** en plak de URL van deze GitHub-repository (`https://github.com/icto-csw/icto-csw.github.io`).
 4. Selecteer een map waar je het project wilt opslaan, en VS Code zal het project voor je downloaden.
 
 ### 3. Werken in de repository
